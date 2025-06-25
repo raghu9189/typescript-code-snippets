@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 var dcHeros = []; // initialization with empty array
 var heros = ['thor', 'spriderman', 'iron man'];
 var tollyHeros = [];

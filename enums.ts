@@ -10,5 +10,6 @@ enum DialogMessage {
 }
 
 const mySeat = SeatChoice.AISLE;
+console.log(SeatChoice)
 console.log(mySeat);
 console.log(DialogMessage.PENDING)

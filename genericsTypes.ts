@@ -3,5 +3,5 @@ function testTypes<T>(data: T): T {
 }
 const myNumVal = 25;
 const myNum = testTypes(myNumVal);
-const myString = testTypes('raghu');
 console.log(myNum);
+const myString = testTypes('raghu');
